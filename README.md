@@ -1,1 +1,1 @@
-# sbc
+[# sbc](https://learn.microsoft.com/ru-ru/training/modules/blockchain-solidity-ethereum-smart-contracts/)https://learn.microsoft.com/ru-ru/training/modules/blockchain-solidity-ethereum-smart-contracts/
