@@ -34,3 +34,6 @@
 12 - https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1
 курс по компютерным сетям
 
+13 - https://skine.ru/articles/416074/?ysclid=lr0vbu8e2a475467018
+Годнота
+
